@@ -1,0 +1,5 @@
+- URL: https://with-bugs.practicesoftwaretesting.com/
+- click: Categories
+- select: Chainsaws
+- expResult: List with Chainsaws is displayed
+- curResult: Error message "404 Error Page Not Found" is displayed
