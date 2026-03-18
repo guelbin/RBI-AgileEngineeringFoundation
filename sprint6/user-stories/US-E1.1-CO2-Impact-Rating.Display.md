@@ -11,3 +11,9 @@ So that I can identify more sustainable options for my business
 - Rating displays correctly in mobile view
 - Analytics track user interactions with ratings
 
+### Test Cases
+
+**TC_ID:** TC_E1.1
+**Title:** CO2 Impact Rating Displayed on Product Card
+
+T1_CO2ImpactRating_userViewsProductList_CO2RatingIsDisplayedForEachProductOnAE-Scale

@@ -11,3 +11,9 @@ So that I can quickly identify sustainable options
 - Badge works on desktop and mobile interfaces
 - Admin can activate/deactivate badge system
 - Badge design follows existing UI patterns
+
+### Test Cases
+**TC_ID:** TC_E1.2
+**Title:** Sustainability Badge System
+
+T1_SustainabilityBadge_userViewsProductList_ecoBadgeIsDisplayedOnProductsWithRatingAorB
