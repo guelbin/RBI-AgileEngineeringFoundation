@@ -64,7 +64,8 @@ These use cases are considered business-critical as they are essential for compl
 - Contact forms (basic and advanced)  
 - Discounts and pricing features  
 - Analytics and tracking  
-- Multi-language support  
+- Multi-language support
+- Accessibility features (e.g. keyboard navigation, screen reader support)  
 - Legal information (privacy policy)  
 - Additional supporting features from the product backlog  
 
@@ -90,9 +91,10 @@ A detailed mapping of all relevant features is provided in the **Feature Classif
 | Google Analytics | User tracking                                                               | NO                        |
 | Multi-Language   | Language support                                                            | NO                        |
 | Privacy Policy   | Legal information                                                           | NO                        |
-| Product Catalog  | Product overview, detail, category                                          | YES                       |
+| Product Catalog  | Product overview, detail, category, including ESG-related information (e.g. CO2 rating, sustainability badges)                                          | YES                       |
 | Search & Filter  | Search, sorting, filtering                                                  | NO                        |
 | Rentals          | Rental functionality                                                        | NO                        |
+| Accessibility    | Accessible UI, keyboard navigation, screen reader support, contrast and usability improvements   | NO |
 
 ---
 
