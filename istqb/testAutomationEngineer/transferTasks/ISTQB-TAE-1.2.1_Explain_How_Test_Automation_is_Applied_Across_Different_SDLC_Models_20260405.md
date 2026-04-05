@@ -33,7 +33,7 @@ A one-page Scrum automation activity map with event-based actions and anti-patte
 ---
 
 ### 7. Timebox
-30 minutes
+60 minutes
 
 ---
 

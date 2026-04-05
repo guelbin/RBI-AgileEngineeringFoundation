@@ -14,7 +14,7 @@ Describe core LLM mechanics and connect them to practical implications for test 
 ---
 
 ### 4. Context / Scenario
-Your team uses AI outputs but often treats them as facts. You need a short learning artifact that explains why outputs can be plausible but still wrong.
+Your team uses AI outputs but often treats them as facts. You need a short learning artifact that explains why outputs can be plausible but still wrong (Keyword: Haluzination).
 
 ---
 
@@ -25,6 +25,7 @@ Your team uses AI outputs but often treats them as facts. You need a short learn
    - Context window usage
    - Next-token prediction
    - Why non-determinism can occur
+   - Haluzination
 3. List 3 consequences for testers when validating AI-generated test content.
 4. Add 2 quality controls the team should always apply.
 
@@ -36,7 +37,7 @@ A markdown note with one short process description and a practical control check
 ---
 
 ### 7. Timebox
-20 minutes
+60 minutes
 
 ---
 
