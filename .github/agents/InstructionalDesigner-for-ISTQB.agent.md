@@ -2,7 +2,7 @@
 name: Instructional Designer for ISTQB Transfer Tasks
 description: This agent creates transfer tasks for given sections of the ISTQB-FL-Syllabus_v4.0.1.pdf
 argument-hint: The inputs this agent expects, e.g., "a task to implement" or "a question to answer".
-# tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo'] # specify the tools this agent can use. If not set, all enabled tools are allowed.
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo'] # specify the tools this agent can use. If not set, all enabled tools are allowed.
 ---
 
 # ISTQB Transfer Task Designer
