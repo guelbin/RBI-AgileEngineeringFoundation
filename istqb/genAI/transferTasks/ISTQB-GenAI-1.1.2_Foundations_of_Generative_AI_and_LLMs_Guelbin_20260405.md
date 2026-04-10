@@ -19,15 +19,22 @@ Ihr Team verwendet KI-Ausgaben, behandelt diese jedoch häufig als Fakten. Sie b
 
 ### 5. Aufgabenstellung
 1. Verwenden Sie folgenden Beispiel-Prompt: “Generate boundary value test ideas for cart quantity update.”
-   * Ich habe den gleichen Prompt zweimal eingegeben und unterschiedliche Ergebnisse bekommen. Das zeigt, dass ein LLM nicht deterministisch ist
+   * Ich habe den gleichen Prompt zweimal eingegeben und unterschiedliche Ergebnisse bekommen. Das zeigt, dass ein LLM nicht deterministisch ist.
    
 2. Beschreiben Sie in einfachen Worten:
+
    - **Tokenisierung:** Ein Text wird in kleinere Einheiten, sogenannte Tokens, zerlegt, damit das Model ihn verarbeiten kann.
-   - **Nutzung des Kontextfensters:** Das Kontextfenster beschreibt, wie viel Text das LLM gleichzeitig berücksichtigen kann. 
-                                  Wenn der Text zu lang ist, kann das Modell frühere Informationen vergessen. 
+
+   - **Nutzung des Kontextfensters:** Das Kontextfenster umfasst alle Informationen, die das Modell gleichzeitig berücksichtigt, wie Eingaben, Systemanweisungen und Ausgaben.  
+      - Wenn die Menge an Informationen zu groß ist, kann das Modell frühere Informationen vergessen.
+      - Die Größe wird vom Modell bestimmt und ist begrenzt, d. h. sie hängt von der Modellarchitektur ab.
+
    - **Next-Token-Vorhersage:** Ein LLM erzeugt Text, indem es das wahrscheinlichste nächste Wort basierend auf dem Kontext vorhersagt.  
+
    - **Warum Nicht-Determinismus auftreten kann:** Ein LLM basiert auf Wahrscheinlichkeiten und kann daher bei der gleichen Eingabe unterschiedliche Ausgaben erzeugen.
-   - **Halluzination:** Ein LLM kann falsche Informationen erzeugen, die plausibel wirken, aber nicht korrekt sind.
+
+   - **Halluzination:** Ein LLM kann plausible, aber falsche Antworten erzeugen, da es auf Wahrscheinlichkeiten basiert und kein echtes Wissen hat, sondern nur Muster aus Trainingsdaten nutzt. Deshalb dürfen diese Ergebnisse nicht ungeprüft übernommen werden.
+
 
 3. Listen Sie 3 Konsequenzen für Tester auf, wenn sie KI-generierte Testinhalte validieren.
    
