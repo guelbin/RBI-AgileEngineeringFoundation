@@ -19,7 +19,7 @@ The team has scripts but no explicit architecture, causing duplication and incon
 ---
 
 ### 5. Task Instructions
-1. Define capability blocks: Test Case Design, Test Data Management, Execution Engine, Assertions, Reporting, Logging, Environment Configuration, CI Integration.
+1. Define capability blocks: Test Case Design, Test Data Management, Execution Engine, Assertions, Reporting, Logging, Environment Configuration, CI Integration...
 2. For each block, write one Toolshop-specific requirement.
 3. Map one concrete example flow (login + add-to-cart) across all capability blocks.
 4. Identify the two capability gaps with highest delivery risk.
@@ -28,12 +28,12 @@ The team has scripts but no explicit architecture, causing duplication and incon
 ---
 
 ### 6. Expected Outcome / Deliverable
-A capability map showing architecture blocks, Toolshop-specific needs, and prioritized gaps.
+A capability map showing architecture blocks (according to the Generic Test Automation Architecture), Toolshop-specific needs, and prioritized gaps.
 
 ---
 
 ### 7. Timebox
-30 minutes
+60 minutes
 
 ---
 
