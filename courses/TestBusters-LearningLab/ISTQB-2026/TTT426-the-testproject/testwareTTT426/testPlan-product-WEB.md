@@ -133,7 +133,6 @@ The test scope focuses on the presentation layer (WEBUI) of the system, includin
 
 ### 5.1 Test Levels
 
-
 | Level | Description | Comment |
 |---------|-------------|---------|
 | Component Testing | Verification of individual software components in isolation. | Performed by developers |
