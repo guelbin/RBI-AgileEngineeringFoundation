@@ -15,6 +15,7 @@
 | v1.0    | Released    | 2026-06-18 | Document structure updated and prepared for future enhancements.                                                                                                                   | Gülbin Deniz | R. Grötz |
 | v1.1    | Released    | 2026-06-24 | Test Planning for the Test Sprint on July 1, 2026 at 42 Vienna.                                                                                                                    | Gülbin Deniz | R. Grötz |
 | v1.2    | In Progress | 2026-07-10 | Updated for Release 6.0. Product Test Plan revised to include the Czech Market features and the AI Assistant (F2.1). The project timeline and test scope were updated accordingly. | Gülbin Deniz | R. Grötz |
+| v1.3 | In Progress | 2026-09-03 | Test scope reprioritized due to reduced team availability during the summer period. The Phase 1 Readiness Review was postponed by two weeks. | Gülbin Deniz | R. Grötz |
 
 ---
 
@@ -35,7 +36,7 @@ This version of the Product Test Plan has been updated for Release 6.0. The proj
 | M1 | Project Kick-off | 2026-06-19 | Shared understanding of objectives, roles, and scope |
 | M2 | Product Test Plan Approved | 2026-06-26 | Overall test direction agreed |
 | M3 | AI Assistant Ready for Investor Presentation | 2026-08-15 | AI Assistant (F2.1) available for investor presentation |
-| M4 | Phase 1 Readiness Review | 2026-09-01 | Czech market readiness assessed according to the updated project schedule |
+| M4 | Phase 1 Readiness Review | 2026-09-15 | Czech market readiness assessed according to the updated project schedule |
 | M5 | Phase 2 Readiness Review | 2026-10-04 | Phase 2 readiness assessed following the shortened project schedule |
 | M6 | Phase 3 Readiness Review | 2026-11-16 | US West Coast readiness assessed |
 | M7 | Phase 4 Readiness Review | 2026-12-27 | Japan readiness assessed |
@@ -227,7 +228,6 @@ Detailed test automation activities are described in the separate **Test Automat
 |------|------|----------------|
 | Test Project Lead | Gülbin Deniz | Coordination of test planning activities, project communication, maintenance of the Product Test Plan, and support of test design and test execution activities. |
 | QA Lead / Test Policy Owner | Julieta Tzouridis | Definition, maintenance and review of the Test Policy |
-| Test Automation Lead | Dilek Firat | Definition and maintenance of the Test Automation Strategy and automation-related activities |
 | Developer & Test Automation | Rashin Harisi | Definition and maintenance of the Test Automation Strategy and automation-related activities |
 | Test Designer / Analyst | Jane Doe | Test analysis, test design and support of test execution activities |
 | Product Owner / QE Specialist / Reviewer | Rudolf Grötz | Defines business priorities, reviews test deliverables, makes the final release decision and provides quality assurance guidance |
