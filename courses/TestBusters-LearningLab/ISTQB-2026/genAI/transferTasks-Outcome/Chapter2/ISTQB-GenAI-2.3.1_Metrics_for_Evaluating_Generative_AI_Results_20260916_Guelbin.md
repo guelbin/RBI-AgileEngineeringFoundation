@@ -9,7 +9,7 @@ ISTQB GenAI – 2.3.1 Metrics for Evaluating Generative AI Results
 ---
 ## Link to the Transfer Task File
 
-https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/blob/main/courses/TestBusters-LearningLab/ISTQB-2026/genAI/transferTasks/Chapter2/ISTQB-GenAI-2.3.1_Metrics_for_Evaluating_Generative_AI_Results_20260405.md
+[G117 – GenAI 2.3.1 – Metrics for Evaluating Generative AI Results](https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/blob/main/courses/TestBusters-LearningLab/ISTQB-2026/genAI/transferTasks/Chapter2/ISTQB-GenAI-2.3.1_Metrics_for_Evaluating_Generative_AI_Results_20260405.md)
 
 ---
 
@@ -85,14 +85,14 @@ Because technical correctness is particularly important for test artifacts, the 
 
 ## 3. Selected Test Artifact
 
-The first AI-generated result from the transfer task **“G114 – GenAI 2.2.4 – AI-Assisted Test Monitoring and Control for Sprint 5 Holtesting”** is evaluated as the test artifact.
+The first AI-generated result from the transfer task [**G114 – GenAI 2.2.4 – AI-Assisted Test Monitoring and Control for Sprint 5 Holtesting**](https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/blob/main/courses/TestBusters-LearningLab/ISTQB-2026/genAI/transferTasks-Outcome/Chapter2/ISTQB-GenAI-2.2.4_Test_Monitoring_and_Control_with_Generative_AI_20260827_Guelbin.md) is evaluated as the test artifact.
 
-The selected artifact is the monitoring brief `03_Initial_Monitoring_Brief_V1_day03-day05.md`, which was generated using Structured Prompt V1 based on the monitoring log excerpts for `day03` to `day05`.
+The selected artifact is the monitoring brief [03_Initial_Monitoring_Brief_V1_day03-day05.md](https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/blob/main/courses/TestBusters-LearningLab/ISTQB-2026/genAI/transferTasks-Outcome/Chapter2/G114-supporting-files/03_Initial_Monitoring_Brief_V1_day03-day05.md), which was generated using Structured Prompt V1 based on the monitoring log excerpts for `day03` to `day05`.
 
 The following files are used as the evaluation basis:
 
-- `01_Monitoring_Log_Excerpts_day03-day05.md`
-- `02_Structured_Prompt_V1.md`
+- [01_Monitoring_Log_Excerpts_day03-day05.md](https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/blob/main/courses/TestBusters-LearningLab/ISTQB-2026/genAI/transferTasks-Outcome/Chapter2/G114-supporting-files/01_Monitoring_Log_Excerpts_day03-day05.md)
+- [02_Structured_Prompt_V1.md](https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/blob/main/courses/TestBusters-LearningLab/ISTQB-2026/genAI/transferTasks-Outcome/Chapter2/G114-supporting-files/02_Structured_Prompt_V1.md)
 
 Later prompt versions are not included in the primary evaluation of V1. The result generated with Prompt V2 is assessed separately only to verify the effectiveness of the improvement action.
 
@@ -123,9 +123,10 @@ All pass-rate values at sprint and test-suite levels must then be recalculated a
 
 ## 7. Validation After the Improvement
 
-To verify the effectiveness of the proposed improvement action, the revised monitoring report `05_Refined_Monitoring_Brief_V2_day03-day05.md` was reviewed using the same evaluation framework.
+To verify the effectiveness of the proposed improvement action, the revised monitoring report [05_Refined_Monitoring_Brief_V2_day03-day05.md](https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/blob/main/courses/TestBusters-LearningLab/ISTQB-2026/genAI/transferTasks-Outcome/Chapter2/G114-supporting-files/05_Refined_Monitoring_Brief_V2_day03-day05.md) was reviewed using the same evaluation framework.
 
-The revised report was generated using `04_Improved_Structured_Prompt_V2.md`. The improved prompt explicitly defines the calculation formulas, requires the verification of defect metadata, and includes a quality-control checklist.
+The revised report was generated using [04_Improved_Structured_Prompt_V2.md](https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/blob/main/courses/TestBusters-LearningLab/ISTQB-2026/genAI/transferTasks-Outcome/Chapter2/G114-supporting-files/04_Improved_Structured_Prompt_V2.md). The improved prompt explicitly defines the calculation formulas, requires the verification of defect metadata, and includes a quality-control checklist.
+
 
 | **Metric** | **Score** | **Brief Justification** |
 |---|---:|---|
