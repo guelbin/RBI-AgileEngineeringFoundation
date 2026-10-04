@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Why AI Testing Needs a Different Approach</title>
+
+  <meta name="description"
+        content="AI systems behave differently from traditional software. So maybe testing needs to change too.">
+
+  <!-- LinkedIn Preview -->
+  <meta property="og:title"
+        content="Why AI Testing Needs a Different Approach">
+
+  <meta property="og:description"
+        content="What happens when the same input no longer produces the same output?">
+
+  <meta property="og:type"
+        content="article">
+
+  <meta property="og:url"
+        content="https://DEINUSERNAME.github.io/DEINREPO/">
+
+  <meta property="og:image"
+        content="https://DEINUSERNAME.github.io/DEINREPO/preview.jpg">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 60px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+    h1 {
+      font-size: 42px;
+    }
+
+    .redirect {
+      margin-top: 40px;
+      padding: 20px;
+      background: #f4f4f4;
+    }
+
+    a {
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>Why AI Testing Needs a Different Approach</h1>
+
+<p>
+Traditional software testing is built around a simple assumption:
+the same input should normally produce the same output.
+</p>
+
+<p>
+But AI and LLM-based systems do not always behave like that.
+The result can vary, even if the input looks identical.
+</p>
+
+<p>
+That changes how we need to think about reliability, quality and testing.
+</p>
+
+<p>
+In the full article, we explore what this means for modern test engineering.
+</p>
+
+<div class="redirect">
+  Opening the full article in
+  <strong><span id="countdown">10</span> seconds</strong>.
+
+  <p>
+    <a id="targetLink"
+       href="https://example.com/full-article">
+      Read the full article now
+    </a>
+  </p>
+</div>
+
+<script>
+  const targetUrl =
+    "https://example.com/full-article?utm_source=linkedin&utm_medium=testbusters&utm_campaign=ai_testing";
+
+  document.getElementById("targetLink").href = targetUrl;
+
+  let seconds = 10;
+  const countdown = document.getElementById("countdown");
+
+  const timer = setInterval(() => {
+    seconds--;
+    countdown.textContent = seconds;
+
+    if (seconds <= 0) {
+      clearInterval(timer);
+      window.location.href = targetUrl;
+    }
+  }, 1000);
+</script>
+
+</body>
+</html>
