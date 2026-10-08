@@ -143,7 +143,7 @@ The comparison shows that refinement can improve individual quality dimensions w
 ---
 
 ## 7. Final Prompt Recommendation and Further Improvement Opportunities
-Of the three evaluated versions, Prompt V3 is recommended as the basis for further use. It contains more concrete actions, exact observed error messages, and clear source references. The complete prompt is documented in [G118_Login_Prompts_and_Outputs_V1-V3_Guelbin.md](G118_Login_Prompts_and_Outputs_V1-V3_Guelbin.md).
+Of the three evaluated versions, Prompt V3 is recommended as the basis for further use. It contains more concrete actions, exact observed error messages, and clear source references. The complete prompt is documented in [G118_Login_Prompts_and_Outputs_V1-V3_Guelbin](https://github.com/guelbin/RBI-AgileEngineeringFoundation/blob/feature_G118-Iterative-Prompt-Refinement/courses/TestBusters-LearningLab/ISTQB-2026/genAI/transferTasks-Outcome/Chapter2/G118_Login_Prompts_and_Outputs_V1-V3_Guelbin.md).
 
 The following improvements are recommended for future refinement:
 
