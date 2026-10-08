@@ -13,8 +13,8 @@
 | Standard | ISO/IEC/IEEE 29119-3 |
 | Author | Gülbin Deniz |
 | Reviewer | Rudolf Gröetz |
-| Date | 03.07.2026 |
-| Status | Final |
+| Date | 06.07.2026 |
+| Status | Releases / Accepted |
 
 ---
 
@@ -134,12 +134,12 @@ The final release decision will be made and documented by the Product Owner base
 
 **Decision:**
 
-- ☐ Approved
+- ☐ Approved (by R. Groetz)
 - ☐ Approved with Conditions
 - ☐ Not Approved
 
 **Date:**
-
+20260706
 ---
 
 # 9. References
@@ -151,7 +151,6 @@ The final release decision will be made and documented by the Product Owner base
 - [ISO/IEC/IEEE 29119-3](https://wildart.github.io/MISG5020/standards/ISO-IEC-IEEE-29119-3.pdf)
 
 ---
-
 
 # Appendix
 
